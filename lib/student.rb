@@ -1,7 +1,9 @@
 class Student 
 
-def 
-  @knowledge
+def raise_hand
+  puts "Pick me!"
 end
+
+
 
 end
